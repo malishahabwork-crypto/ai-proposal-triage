@@ -9,7 +9,7 @@
 
 ## Repository Contents
 
-* [**Process Flow Diagram (PNG)**](diagram/flow_diagram.png) · [**PDF Version**](diagram/flow_diagram.pdf) · [**Interactive HTML**](diagram/proposal_triage_flow_diagram.html) — End-to-end visual architecture illustrating PDF ingestion, schema-constrained AI extraction, sequential deterministic rule gates, mathematical scoring/tie-breaking, and human-in-the-loop checkpoints.
+* [**Process Flow Diagram (PNG)**](diagram/flow_diagram.png) · [**PDF Version**](diagram/flow_diagram.pdf) · [**Mermaid Markdown (`flowdiagram.md`)**](diagram/flowdiagram.md) · [**Interactive HTML**](diagram/proposal_triage_flow_diagram.html) — End-to-end visual architecture illustrating PDF ingestion, schema-constrained AI extraction, sequential deterministic rule gates, mathematical scoring/tie-breaking, and human-in-the-loop checkpoints.
 * [**System Design Write-Up (`WRITEUP.md`)**](WRITEUP.md) — Concise responses to the five core architectural questions (AI vs. rules boundary, repeatability & explainability, human oversight & audit logs, criteria versioning, and risk mitigation).
 * [**AI Prompts (`PROMPTS.md`)**](PROMPTS.md) — Production system and user prompt templates for Stage 2 semantic fact extraction and Stage 4 one-line summary generation.
 * [**Sample Set Ranking Output (`ranking.json`)**](ranking.json) — Final triage evaluation and ranking of sample Proposals A–E following the required JSON schema.
