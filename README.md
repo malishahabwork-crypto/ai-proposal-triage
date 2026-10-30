@@ -18,7 +18,7 @@
 
 ## Process Flow Architecture Preview
 
-![Process Flow Diagram](diagram/flow_diagram.png)
+![Process Flow Diagram](diagram/flowdiagram.md)
 
 ---
 
