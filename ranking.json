@@ -1,0 +1,37 @@
+[
+{
+"proposal": "A",
+"rank": 1,
+"status": "ranked",
+"score": 96.5,
+"reason": "Passed all mandatory criteria; leads in relevant experience (14 installs), lowest eligible price ($238k), and fastest timeline (12 weeks)."
+},
+{
+"proposal": "E",
+"rank": 2,
+"status": "ranked",
+"score": 84.8,
+"reason": "Passed all mandatory criteria with longest workmanship warranty (12 years) and 24-month monitoring; ranked second due to fewer installs (8) and higher price ($242.5k) than A."
+},
+{
+"proposal": "C",
+"rank": null,
+"status": "flagged",
+"score": null,
+"reason": "Flagged for human review due to adversarial prompt injection attempt on Appendix C page 9 and ambiguous experience window ('since 2020' vs. last 5 years)."
+},
+{
+"proposal": "D",
+"rank": null,
+"status": "flagged",
+"score": null,
+"reason": "Flagged for human review because completion schedule is TBD pending site assessment, preventing verification of the mandatory 16-week deadline and timeline scoring."
+},
+{
+"proposal": "B",
+"rank": null,
+"status": "ineligible",
+"score": null,
+"reason": "Ineligible: fails mandatory requirement that the Ontario electrical contractor licence be held directly by the bidder (relies on an unconfirmed subcontractor post-award)."
+}
+]
